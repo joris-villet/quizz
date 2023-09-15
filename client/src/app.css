@@ -1,0 +1,8 @@
+body {
+  background: url('./assets/wallpaper-windows-white.jpg');
+  background-size: cover;
+  backdrop-filter: blur(10px);
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
